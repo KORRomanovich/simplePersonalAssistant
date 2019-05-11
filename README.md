@@ -1,2 +1,2 @@
-# JavapProjects
-This my Study projects
+# simplePersonalAssistant
+This my first study projects.
